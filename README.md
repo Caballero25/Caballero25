@@ -27,7 +27,7 @@ Here are some of my skills and technologies I work with:
 Here you can find some of my featured projects:
 
 - [EmpliData](https://github.com/Caballero25/EmpliData-SySDjango): I undertook this project self-taught, and for its development, I applied technologies such as Python, Django, Bootstrap, and Javascript. It is an employee management system where you can easily manage your company's collaborators, from handling personal data to large-scale payroll processing. <br><br>
-  <img src="https://cdn.discordapp.com/attachments/1085674144538034228/1150252535328808990/INICIO.png" width=700 height=400><br><br>
+  <img src="https://media.discordapp.net/attachments/1085674144538034228/1150252535328808990/INICIO.png?ex=65f651a7&is=65e3dca7&hm=01b3d504e67c638d4f4fc3ea9f9a3aebb8dc26cef63a499516e4c21b51f2a4f0&=&format=webp&quality=lossless&width=787&height=447" width=700 height=400><br><br>
 <hr>
 
 - [SabrositoDelivery](https://github.com/No-Country/c12-17-t-python): A delivery system designed for the Mexican restaurant 'Sabrosito.' This project combines modern technologies like Bootstrap, Django, MySQL, and Javascript to provide a user-friendly and efficient platform for placing food orders online. <br><br>
@@ -36,7 +36,7 @@ TEAM
    - Aurora Martínez - Design UX/UI
    - Santiago Pineda - Frontent Developer<br> 
 
-   <img src="https://cdn.discordapp.com/attachments/1085674144538034228/1150276345729921174/image.png" width=700 height=400><br><br>
+   <img src="https://media.discordapp.net/attachments/1085674144538034228/1150254310052069447/image.png?ex=65f6534e&is=65e3de4e&hm=e6235a471420c59e081c521eba38e47ca62522ac8f921c463b06012cc96a652e&=&format=webp&quality=lossless&width=918&height=447" width=700 height=400><br><br>
 <hr>
 
 - [Twitter | Python-React](https://github.com/No-Country/s10-04-t-python-react-twitter): This project is a social media platform inspired by the popular Twitter application. It was developed over a period of 5 weeks under the supervision of the company 'No Country.' This platform provides users with the ability to share short messages, follow other users, and engage in public conversations. <br><br>
