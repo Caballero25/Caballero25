@@ -27,7 +27,7 @@ Here are some of my skills and technologies I work with:
 Here you can find some of my featured projects:
 
 - [EmpliData](https://github.com/Caballero25/EmpliData-SySDjango): I undertook this project self-taught, and for its development, I applied technologies such as Python, Django, Bootstrap, and Javascript. It is an employee management system where you can easily manage your company's collaborators, from handling personal data to large-scale payroll processing. <br><br>
-  <img src="https://i.imgur.com/8Lc85Ny.png" width=700 height=400><br><br>
+  <img src="https://i.imgur.com/DejMyUn.png" width=700 height=400><br><br>
 <hr>
 
 - [SabrositoDelivery](https://github.com/No-Country/c12-17-t-python): A delivery system designed for the Mexican restaurant 'Sabrosito.' This project combines modern technologies like Bootstrap, Django, MySQL, and Javascript to provide a user-friendly and efficient platform for placing food orders online. <br><br>
