@@ -36,7 +36,7 @@ TEAM
    - Aurora Martínez - Design UX/UI
    - Santiago Pineda - Frontent Developer<br> 
 
-   <img src="https://media.discordapp.net/attachments/1085674144538034228/1150254310052069447/image.png?ex=65f6534e&is=65e3de4e&hm=e6235a471420c59e081c521eba38e47ca62522ac8f921c463b06012cc96a652e&=&format=webp&quality=lossless&width=918&height=447" width=700 height=400><br><br>
+   <img src="https://imgur.com/a/ScI7wCf" width=700 height=400><br><br>
 <hr>
 
 - [Twitter | Python-React](https://github.com/No-Country/s10-04-t-python-react-twitter): This project is a social media platform inspired by the popular Twitter application. It was developed over a period of 5 weeks under the supervision of the company 'No Country.' This platform provides users with the ability to share short messages, follow other users, and engage in public conversations. <br><br>
