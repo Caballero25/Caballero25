@@ -7,7 +7,7 @@
 </div>
 
 
-Welcome to my GitHub profile! I'm a passionate backend developer with the skills and experience to tackle complex challenges and situations. I have the ability to quickly adapt to new tools and methodologies, driving progress and success in the activities I engage in.
+Welcome to my GitHub profile! I'm a passionate Full Stack developer with the skills and experience to tackle complex challenges and situations. I have the ability to quickly adapt to new tools and methodologies, driving progress and success in the activities I engage in.
 
 ## Skills
 
